@@ -13,5 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
-/watchface/build/intermediates
+/watchface/build
 /watchface/release
