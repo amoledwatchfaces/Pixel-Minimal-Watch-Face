@@ -15,3 +15,5 @@
 local.properties
 /watchface/build
 /watchface/release
+/.gradle
+/.idea
