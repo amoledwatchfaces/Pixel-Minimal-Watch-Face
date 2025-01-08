@@ -14,5 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Pixel Minimal"
-include(":watchface")
  
