@@ -1,5 +1,6 @@
 <WatchFace clipShape="CIRCLE" height="450" width="450">
     <Metadata key="CLOCK_TYPE" value="DIGITAL" />
+    <Metadata key="PREVIEW_TIME" value="09:44:00" />
     <UserConfigurations>
         <!-- Colors -->
         <ColorConfiguration defaultValue="72" displayName="id_material_theme" id="themeColor">
