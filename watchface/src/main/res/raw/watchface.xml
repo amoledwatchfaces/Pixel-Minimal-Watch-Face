@@ -811,7 +811,7 @@
                     </Expressions>
                     <Compare expression="notificationsRow">
                         <PartImage width="256" height="32"  x="0" y="7" tintColor="[CONFIGURATION.themeColor.1]">
-                            <Image resource="[COMPLICATION.SMALL_IMAGE]"/>
+                            <Image resource="[COMPLICATION.MONOCHROMATIC_IMAGE_AMBIENT]"/>
                         </PartImage>
                     </Compare>
                     <Compare expression="textIconTitle">
@@ -994,7 +994,7 @@
                     </Expressions>
                     <Compare expression="notificationsRow">
                         <PartImage width="256" height="32"  x="0" y="7" tintColor="[CONFIGURATION.themeColor.1]">
-                            <Image resource="[COMPLICATION.SMALL_IMAGE]"/>
+                            <Image resource="[COMPLICATION.MONOCHROMATIC_IMAGE_AMBIENT]"/>
                         </PartImage>
                     </Compare>
                     <Compare expression="textIconTitle">
